@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my GitHub profile. Here you can find some of my projects and collaborations.
 
 <!--
 **errearanhas/errearanhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
